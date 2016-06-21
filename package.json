@@ -1,0 +1,19 @@
+{
+  "name": "rest-service-host",
+  "version": "0.0.0",
+  "description": "Host for sms rest services",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharemyscreen/rest-service-host.git"
+  },
+  "author": "Maxime Guedj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharemyscreen/rest-service-host/issues"
+  },
+  "homepage": "https://github.com/sharemyscreen/rest-service-host#readme"
+}
