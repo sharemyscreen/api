@@ -1,0 +1,9 @@
+[submodule "src/app/dev"]
+	path = src/app/dev
+	url = git@github.com:sharemyscreen/dev-service.git
+[submodule "src/app/api"]
+	path = src/app/api
+	url = git@github.com:sharemyscreen/api-service.git
+[submodule "src/app/login"]
+	path = src/app/login
+	url = git@github.com:sharemyscreen/login-service.git
