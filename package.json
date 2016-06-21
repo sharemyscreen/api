@@ -18,6 +18,7 @@
   "homepage": "https://github.com/sharemyscreen/rest-service-host#readme",
   "dependencies": {
     "config": "^1.21.0",
+    "dev-service": "git+ssh://git@github.com/sharemyscreen/dev-service.git",
     "express": "^4.14.0",
     "mongoose": "^4.5.1",
     "vhost": "^3.0.2",
