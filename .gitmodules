@@ -1,6 +1,7 @@
 [submodule "src/app/dev"]
 	path = src/app/dev
 	url = git@github.com:sharemyscreen/dev-service.git
+	branch = master
 [submodule "src/app/api"]
 	path = src/app/api
 	url = git@github.com:sharemyscreen/api-service.git
