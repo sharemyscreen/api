@@ -7,3 +7,6 @@
 [submodule "src/app/login"]
 	path = src/app/login
 	url = git@github.com:sharemyscreen/login-service.git
+[submodule "src/lib/common"]
+	path = src/lib/common
+	url = git@github.com:sharemyscreen/common.git
