@@ -1,0 +1,15 @@
+dbConfig:
+  host: localhost
+  port: 27017
+  dbName: sms
+
+server:
+  port: 3000
+
+authServer:
+  url: login.sharemyscreen.local
+
+
+test:
+  dbConfig:
+    dbName: sms-test

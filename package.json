@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sharemyscreen/rest-service-host/issues"
   },
-  "homepage": "https://github.com/sharemyscreen/rest-service-host#readme"
+  "homepage": "https://github.com/sharemyscreen/rest-service-host#readme",
+  "dependencies": {
+    "config": "^1.21.0"
+  }
 }
