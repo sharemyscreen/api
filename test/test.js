@@ -1,4 +1,4 @@
 
-describe("Testing rest-host-service ...", function () {
+describe('Testing rest-host-service ...', function () {
 
 });

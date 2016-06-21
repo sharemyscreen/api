@@ -1,5 +1,4 @@
 
-const gulp = require('gulp');
-const require_dir = require('require-dir');
+const requireDir = require('require-dir');
 
-require_dir("./task");
+requireDir('./task');
