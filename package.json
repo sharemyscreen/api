@@ -18,5 +18,9 @@
   "homepage": "https://github.com/sharemyscreen/rest-service-host#readme",
   "dependencies": {
     "config": "^1.21.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "require-dir": "^0.3.0"
   }
 }
