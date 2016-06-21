@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/sharemyscreen/rest-service-host#readme",
   "dependencies": {
-    "config": "^1.21.0"
+    "config": "^1.21.0",
+    "winston": "^2.2.0"
   },
   "devDependencies": {
     "eslint": "^2.13.1",
