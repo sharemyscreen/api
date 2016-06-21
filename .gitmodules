@@ -5,9 +5,12 @@
 [submodule "src/app/api"]
 	path = src/app/api
 	url = git@github.com:sharemyscreen/api-service.git
+	branch = master
 [submodule "src/app/login"]
 	path = src/app/login
 	url = git@github.com:sharemyscreen/login-service.git
+	branch = master
 [submodule "src/lib/common"]
 	path = src/lib/common
 	url = git@github.com:sharemyscreen/common.git
+	branch = master
