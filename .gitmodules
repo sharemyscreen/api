@@ -14,3 +14,7 @@
 	path = src/lib/common
 	url = git@github.com:sharemyscreen/common.git
 	branch = master
+[submodule "src/lib/http-common"]
+	path = src/lib/http-common
+	url = git@github.com:sharemyscreen/http-common.git
+	branch = master
