@@ -6,11 +6,10 @@ dbConfig:
 server:
   port: 3000
 
-authSevice:
-  url: login.sharemyscreen.local
-
 devService:
   url: dev.sharemyscreen.local
+loginService:
+  url: login.sharemyscreen.local
 
 test:
   dbConfig:
