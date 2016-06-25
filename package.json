@@ -1,6 +1,6 @@
 {
   "name": "sharemyscreen-rest-service-host",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Host for sms rest services",
   "main": "src/index.js",
   "scripts": {
