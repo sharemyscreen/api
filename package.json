@@ -4,7 +4,9 @@
   "description": "Host for sms rest services",
   "main": "src/index.js",
   "scripts": {
-    "start": "node ./src"
+    "start": "node ./src",
+    "preversion": "gulp lint",
+    "postversion": "git push origin master --tags"
   },
   "repository": {
     "type": "git",
