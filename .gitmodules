@@ -14,7 +14,7 @@
 	path = src/lib/common
 	url = git@github.com:sharemyscreen/common.git
 	branch = master
-[submodule "src/lib/http-common"]
-	path = src/lib/http-common
+[submodule "src/lib/http-helper"]
+	path = src/lib/http-helper
 	url = git@github.com:sharemyscreen/http-helper.git
 	branch = master
