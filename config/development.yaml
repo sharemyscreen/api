@@ -10,6 +10,8 @@ devService:
   url: dev.sharemyscreen.local
 loginService:
   url: login.sharemyscreen.local
+apiService:
+  url: api.sharemyscreen.local
 
 test:
   dbConfig:

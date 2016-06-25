@@ -10,6 +10,8 @@ devService:
   url: dev.sharemyscreen.fr
 loginService:
   url: login.sharemyscreen.fr
+apiService:
+  url: api.sharemyscreen.fr
 
 test:
   dbConfig:

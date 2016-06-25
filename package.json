@@ -21,6 +21,7 @@
     "express": "^4.14.0",
     "js-yaml": "^3.6.1",
     "mongoose": "^4.5.1",
+    "sharemyscreen-api-service": "git+ssh://git@github.com/sharemyscreen/api-service.git",
     "sharemyscreen-dev-service": "git+ssh://git@github.com/sharemyscreen/dev-service.git",
     "sharemyscreen-login-service": "git+ssh://git@github.com/sharemyscreen/login-service.git",
     "vhost": "^3.0.2",
