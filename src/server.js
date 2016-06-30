@@ -7,6 +7,12 @@ const appLoader = require('./app');
 
 var masterApp = null;
 
+function initializeLogger () {
+  logger.info('Initializing logger ...');
+  logger.add(logger.transports.File, {filename: config.get('logFile'), json: false});
+  logger.info('Logger initialized');
+}
+
 function initializeDatabaseConnection (testing, cb) {
   logger.info('Connecting to database ...');
 
@@ -41,13 +47,14 @@ function initializeApp () {
 }
 
 function start (testing) {
+  initializeLogger();
+
   logger.info('Starting services ...');
 
   initializeDatabaseConnection(testing, function (err) {
     if (err) {
       process.exit(1);
-    }
-    else {
+    } else {
       initializeApp();
     }
   });

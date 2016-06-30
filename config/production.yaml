@@ -16,3 +16,5 @@ apiService:
 test:
   dbConfig:
     dbName: sms-test
+
+logFile: request.log
