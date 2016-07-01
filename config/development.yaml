@@ -18,3 +18,4 @@ test:
     dbName: sms-test
 
 logFile: request.log
+googleApiKey: AIzaSyCp0VnNyEznPykPPhzA660Y1ZGdf0WGUxI
